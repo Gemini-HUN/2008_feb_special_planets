@@ -14,6 +14,9 @@ Image from **DestroyedAlienCity01** made by **Aster** from Discord
 
 <img width="1280" height="600" alt="1000000881" src="https://github.com/user-attachments/assets/7a3afc40-97e3-435d-82e3-79acf79effa3" />
 
+## Recommended
+* [Sporemod-Fruits-in-civ-and-space](https://github.com/Gemini-HUN/Sporemod-Fruits-in-civ-and-space) if you want see the 2008 february fruits in your game.
+
 ## No compatible with
 * [Spore_Spiralplanet_crashedship](https://github.com/Gemini-HUN/Spore_Spiralplanet_crashedship)
 
