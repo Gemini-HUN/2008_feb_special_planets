@@ -16,7 +16,7 @@ Image from **DestroyedAlienCity01** made by **Aster** from Discord
 
 ## Requirement
 * [2008_feb_Gemini_beta_planets](https://github.com/Gemini-HUN/2008_feb_Gemini_beta_planets)
-
+* Compatibility test by **Aster** from Discord
 ## Recommended
 * [Sporemod-Fruits-in-civ-and-space](https://github.com/Gemini-HUN/Sporemod-Fruits-in-civ-and-space) if you want see the 2008 february fruits in your game.
 
