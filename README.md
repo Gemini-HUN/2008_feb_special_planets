@@ -14,6 +14,9 @@ Image from **DestroyedAlienCity01** made by **Aster** from Discord
 
 <img width="1280" height="600" alt="1000000881" src="https://github.com/user-attachments/assets/7a3afc40-97e3-435d-82e3-79acf79effa3" />
 
+## Required
+* [2008_feb_Gemini_beta_planets](https://github.com/Gemini-HUN/2008_feb_Gemini_beta_planets)
+
 ## Recommended
 * [Sporemod-Fruits-in-civ-and-space](https://github.com/Gemini-HUN/Sporemod-Fruits-in-civ-and-space) if you want see the 2008 february fruits in your game.
 
@@ -21,7 +24,6 @@ Image from **DestroyedAlienCity01** made by **Aster** from Discord
 * [Spore_Spiralplanet_crashedship](https://github.com/Gemini-HUN/Spore_Spiralplanet_crashedship)
 
 ## Compatible with
-* [2008_feb_Gemini_beta_planets](https://github.com/Gemini-HUN/2008_feb_Gemini_beta_planets)
 * [Gemini_proto_solar_planets](https://github.com/Gemini-HUN/Gemini_proto_solar_planets)
 * [Spore_T3_Earth](https://github.com/Gemini-HUN/Spore_T3_Earth)
 * [2008_feb_Art_planets](https://github.com/Gemini-HUN/2008_feb_Art_planets)
