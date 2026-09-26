@@ -14,7 +14,7 @@ Image from **DestroyedAlienCity01** made by **Aster** from Discord
 
 <img width="1280" height="600" alt="1000000881" src="https://github.com/user-attachments/assets/7a3afc40-97e3-435d-82e3-79acf79effa3" />
 
-## Required
+## Requirement
 * [2008_feb_Gemini_beta_planets](https://github.com/Gemini-HUN/2008_feb_Gemini_beta_planets)
 
 ## Recommended
